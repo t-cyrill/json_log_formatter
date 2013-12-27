@@ -1,5 +1,7 @@
 # JsonLogFormatter
 
+[![Build Status](https://travis-ci.org/t-cyrill/json_log_formatter.png)](https://travis-ci.org/t-cyrill/json_log_formatter)
+
 JsonLogFormatter is Log Formatter.
 
 ## Installation

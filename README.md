@@ -6,7 +6,7 @@ JsonLogFormatter is Log Formatter.
 
 Add this line to your application's Gemfile:
 
-    gem 'json_log_formatter', :git => 'https://github.com/t-cyrill/json-log-formatter.git'
+    gem 'json_log_formatter', :git => 'https://github.com/t-cyrill/json_log_formatter.git'
 
 And then execute:
 
